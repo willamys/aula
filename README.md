@@ -1,4 +1,1 @@
-aula
-====
-
-repositorio para aula de git
+# Repositório de materiais sobre git
